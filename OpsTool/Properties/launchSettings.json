@@ -1,0 +1,8 @@
+{
+  "profiles": {
+	"OpsTool": {
+	  "commandName": "Project",
+	  "commandLineArgs": "-t"
+	}
+  }
+}
